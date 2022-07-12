@@ -1,0 +1,24 @@
+{
+  "name": "hypebot",
+  "version": "1.5.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "countdown": "^2.6.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fivem-node-api": "^0.1.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysqldump": "^3.2.0",
+    "request": "^2.88.2",
+    "tcp-ping": "^0.1.1"
+  }
+}
